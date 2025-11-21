@@ -1,0 +1,1 @@
+This is a simple Generative AI chatbot that uses OpenAI's gpt-3.5-turbo model to converse with active history. The full chat history is always sent along with the user's query. It is hosted on streamlit cloud and the link to access is https://app-genai-chatbot-aditya.streamlit.app
